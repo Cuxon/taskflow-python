@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Подготовить отчет по ПР1",
+        "importance": 5,
+        "urgency": 4,
+        "deadline": "2099-01-01",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "name": "Подготовить проект по Python",
+        "importance": 4,
+        "urgency": 5,
+        "deadline": "2099-01-07",
+        "completed": false
+    }
+]
